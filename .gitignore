@@ -1,0 +1,9 @@
+/.vscode
+/package-lock.json
+/node_modules
+/dist
+/message.txt
+/nodemon.json
+/server.cert
+/server.key
+/access.log
